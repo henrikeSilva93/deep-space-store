@@ -1,0 +1,3 @@
+<template>
+    Shipping form
+</template>
